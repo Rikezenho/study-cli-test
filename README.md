@@ -2,6 +2,8 @@
 
 Little project for studying CLI making with Node packages.
 
+![](preview.png)
+
 ---
 
 ## How to register this CLI as a terminal command
